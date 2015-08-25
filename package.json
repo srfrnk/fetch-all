@@ -1,0 +1,11 @@
+{
+  "name": "gitpull",
+  "version": "1.0.0",
+  "description": "cmd to pull all remote branches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
