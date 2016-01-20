@@ -1,6 +1,6 @@
 {
   "name": "fetch-all",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cmd to pull all remote branches",
   "main": "fetch-all.js",
   "bin": {
@@ -13,5 +13,11 @@
   "dependencies": {
     "async": "~1.5.2",
     "node-string-pad": "~0.0.4"
-  }
+  },
+  "keywords": [
+    "git",
+    "fetch",
+    "branch",
+    "pull"
+  ]
 }

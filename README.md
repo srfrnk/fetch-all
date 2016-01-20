@@ -1,10 +1,10 @@
 # fetch-all
-cmd to pull all remote branches
+Cmd to pull all remote git branches
 
-* installation
-npm i -g fetch-all
+## Installation
+`$ npm i -g fetch-all`
 
-* usage
-$ cd /.../project_root_directory
-$ fetch-all
+## Usage
+`$ cd /.../project_root_directory`
 
+`$ fetch-all`
