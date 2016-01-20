@@ -1,11 +1,17 @@
 {
-  "name": "gitpull",
+  "name": "fetch-all",
   "version": "1.0.0",
   "description": "cmd to pull all remote branches",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "main": "fetch-all.js",
+  "bin": {
+    "fetch-all": "./fetch-all.js"
   },
-  "author": "",
-  "license": "MIT"
+  "scripts": {
+  },
+  "author": "srfrnk@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "async": "~1.5.2",
+    "node-string-pad": "~0.0.4"
+  }
 }
