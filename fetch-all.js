@@ -1,4 +1,5 @@
-#!/usr/bin/env nodejs
+#!/bin/sh
+//bin/false || `which node || which nodejs` << `tail -n +2 $0`
 
 "use strict";
 
