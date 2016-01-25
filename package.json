@@ -1,10 +1,10 @@
 {
   "name": "fetch-all",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "cmd to pull all remote branches",
   "main": "fetch-all.js",
   "bin": {
-    "fetch-all": "./fetch-all.js"
+    "fetch-all": "./run.sh"
   },
   "scripts": {
   },
